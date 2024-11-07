@@ -1,0 +1,8 @@
+cd pythonProject1
+cd .venv
+cd Scripts
+./activate
+cd ..
+cd ..
+streamlit run app2.py
+Done
