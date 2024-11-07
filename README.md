@@ -51,8 +51,8 @@ To set up the Sarcasm Detection App on your local machine, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Sarcasm-Detection-App.git
-    cd Sarcasm-Detection-App
+    git clone https://github.com/Amra-Shaikh/Sarcasm-Detection
+    cd Sarcasm-Detection
     ```
 
 2. **Create and activate a virtual environment (optional but recommended)**:
@@ -84,8 +84,7 @@ Here are some example inputs and expected outputs from the app:
 
 | Input Text                                       | Expected Output      |
 |--------------------------------------------------|----------------------|
-| "Oh, great! Another rainy day. Just what I needed." | Sarcastic            |
-| "I love getting up early in the morning!"        | Possibly Sarcastic   |
+| "Oh, great! Another rainy day. Just what I needed." | Sarcastic         |  |
 | "I had a wonderful dinner last night."           | Non-sarcastic        |
 
 ## Troubleshooting
